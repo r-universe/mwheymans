@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "miceafter"]
+	path = miceafter
+	url = https://github.com/mwheymans/miceafter
+	shallow = true
+	registered = true
+[submodule "psfmi"]
+	path = psfmi
+	url = https://github.com/mwheymans/psfmi
+	shallow = true
+	registered = true
