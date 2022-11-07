@@ -4,6 +4,7 @@
     "oncran": true
   },
   {
-    "package": "psfmi"
+    "package": "psfmi",
+    "oncran": true
   }
 ]
